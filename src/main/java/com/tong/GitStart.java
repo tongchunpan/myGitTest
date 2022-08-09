@@ -5,4 +5,7 @@ package com.tong;
  * @date 2022/8/9 14:22
  */
 public class GitStart {
+    public static void main(String[] args) {
+
+    }
 }
